@@ -1,0 +1,12 @@
+{
+  "export_job_id": "f285e4a5-c710-473f-a00d-03f465cbe11b",
+  "id_short": 588514,
+  "published_at": "2026-04-13T19:39:19Z",
+  "repo_name": "restaurant-verified-email-access-in-baltimore-maryland-us-sample-588514",
+  "sample_asset_name": "beamstation_588514_restaurants-us-md_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/588514/beamstation_588514_restaurants-us-md_SAMPLE_DIST.csv",
+  "sample_records": 90,
+  "sample_sha256": "dbcbf1e9f21e3f9af9decf6679986448e723ddafcc3a6b4a9c533d64e4dd229a",
+  "sample_size_bytes": 367500,
+  "total_records": 902
+}
