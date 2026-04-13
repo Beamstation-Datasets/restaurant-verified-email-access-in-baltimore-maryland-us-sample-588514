@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Baltimore, Maryland, US",
+  "export_job_id": "f285e4a5-c710-473f-a00d-03f465cbe11b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 588514,
+  "location_name": "Baltimore",
+  "location_type": "city",
+  "repo_name": "restaurant-verified-email-access-in-baltimore-maryland-us-sample-588514",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/588514/beamstation_588514_restaurants-us-md_SAMPLE_DIST.csv",
+  "sample_pct": 9.98,
+  "sample_records": 90,
+  "sample_sha256": "dbcbf1e9f21e3f9af9decf6679986448e723ddafcc3a6b4a9c533d64e4dd229a",
+  "sample_size_bytes": 367500,
+  "total_records": 902,
+  "updated_at": "2026-04-07T23:10:30.376266+00:00"
+}
