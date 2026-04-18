@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Baltimore, Maryland, US
 
-> Free BeamStation sample export with 90 rows and masked direct-contact fields.
+> Free BeamStation sample export with 89 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `588514` |
 | Location | Baltimore |
 | Category | Restaurants |
-| Full dataset size | 902 records |
-| Free sample size | 90 records (9.98%) |
-| Last export | 2026-04-07T23:10:30.376266+00:00 |
+| Full dataset size | 892 records |
+| Free sample size | 89 records (9.98%) |
+| Last export | 2026-04-15T04:56:22.986909+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-baltimore-maryland-us-sample-588514/releases/download/sample-latest/beamstation_588514_restaurants-us-md_SAMPLE_DIST.csv) |
 
 ## What is in this sample
